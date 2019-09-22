@@ -1,5 +1,5 @@
 # personal website
-Snippets of personal website: form submitting and index animation pages.
+Snippets of my old personal website: form submitting and index animation pages.
 
 # notes
 - raw CSS included in index file
